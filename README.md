@@ -16,7 +16,7 @@ Title
 1  
 listbox left text  
 2  
-listbox middle text 
+listbox middle text  
 3  
 listbox right text  
 4  
