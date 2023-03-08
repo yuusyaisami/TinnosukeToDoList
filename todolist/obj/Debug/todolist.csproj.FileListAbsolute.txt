@@ -1,0 +1,12 @@
+C:\Users\macar\source\repos\todolist\bin\Debug\todolist.exe.config
+C:\Users\macar\source\repos\todolist\bin\Debug\todolist.exe
+C:\Users\macar\source\repos\todolist\bin\Debug\todolist.pdb
+C:\Users\macar\source\repos\todolist\obj\Debug\todolist.csproj.AssemblyReference.cache
+C:\Users\macar\source\repos\todolist\obj\Debug\todolist.csproj.SuggestedBindingRedirects.cache
+C:\Users\macar\source\repos\todolist\obj\Debug\todolist.Properties.Resources.resources
+C:\Users\macar\source\repos\todolist\obj\Debug\todolist.csproj.GenerateResource.cache
+C:\Users\macar\source\repos\todolist\obj\Debug\todolist.csproj.CoreCompileInputs.cache
+C:\Users\macar\source\repos\todolist\obj\Debug\todolist.exe
+C:\Users\macar\source\repos\todolist\obj\Debug\todolist.pdb
+C:\Users\macar\source\repos\todolist\obj\Debug\todolist.FormMain.resources
+C:\Users\macar\source\repos\todolist\obj\Debug\todolist.Formsub1.resources
