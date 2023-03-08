@@ -1,2 +1,2 @@
 # TinnosukeToDoList
-Simplified and easy-to-understand TODOLIST application.
+Simplified and easy-to-understand ToDoList application.
