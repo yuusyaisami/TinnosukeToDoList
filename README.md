@@ -1,6 +1,6 @@
 # TinnosukeToDoList  
 <p align="center">
-  <img src=https://github.com/yuusyaisami/TinnosukeToDoList/issues/1#issue-1615246285>
+  <img src=https://user-images.githubusercontent.com/110176625/223721639-2dc9d006-ef69-477b-b370-7d6608751d2d.png>
 </p>  
 Simplified and easy-to-understand ToDoList application.  
 Create a project and write a list of things to do!  
